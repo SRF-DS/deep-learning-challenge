@@ -17,7 +17,7 @@ Experimented with different activation functions (tanh)
 Implemented dropout layers to prevent overfitting
 
 Summary
-Our deep learning model [was/was not] successful in achieving the target accuracy of 75% for predicting the success of Alphabet Soup-funded organizations. The optimization process, which involved adjusting the model architecture and implementing regularization techniques, [significantly improved/had limited impact on] the model's performance.
+Our deep learning model was not successful in achieving the target accuracy of 75% for predicting the success of Alphabet Soup-funded organizations. The optimization process, which involved adjusting the model architecture and implementing regularization techniques, had limited impact on the model's performance.
 
 Recommendation for a Different Model
 For this classification problem, I would recommend trying a Random Forest model. Random Forests are ensemble learning methods that operate by constructing multiple decision trees and outputting the class that is the mode of the classes of the individual trees.
